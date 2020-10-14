@@ -4,9 +4,11 @@ import { FiPlus } from 'react-icons/fi'
 
 import mapMarkerImg from '../images/Local.svg';
 
+import '../styles/pages/orphanages-map.css'
+
 function OrpahnpagesMap(){
     return (
-     <div className="page-map">
+     <div id="page-map">
          <aside>
              <header>
                  <img src={mapMarkerImg} alt="Happy"/>
