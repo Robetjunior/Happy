@@ -7,8 +7,10 @@ import OrphanpagesMap from './pages/OrphanpagesMap';
 function Routes(){
     return (
         <BrowserRouter>
-            <Route path="/" component={Landing} />
-            <Route path="/app" component={OrphanpagesMap} />
+            <Switch>
+                <Route path="/" exact component={Landing} />
+                <Route path="/app" component={OrphanpagesMap} />
+            </Switch>
         </BrowserRouter>
     );
 }
