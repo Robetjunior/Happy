@@ -21,6 +21,8 @@
   align-items: flex-start;
   flex-direction: column;
   justify-content: space-between;
+
+  background: url("../../images/Ilustra02.svg") no-repeat 80% center;
 }
 
 #page-landing .content-wrapper main {
@@ -28,6 +30,7 @@
 }
 
 #page-landing .content-wrapper main h1 {
+  margin-top: 60%;
   font-size: 76px;
   font-weight: 900;
   line-height: 70px;
