@@ -5,7 +5,6 @@ import { useHistory } from 'react-router-dom';
 import mapMarkerImg from '../images/Local.svg';
 
 import '../styles/components/sidebar.css'
-// import { Container } from './styles';
 
 export default function Sidebar() {
     const { goBack } = useHistory()
