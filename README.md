@@ -25,7 +25,6 @@ $ git clone https://github.com/mjulialobo/happy-mobile.git
 
 # entre na pasta do projeto
 
-```
 $ cd happy
 ```
 
