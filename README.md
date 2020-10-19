@@ -10,7 +10,7 @@ A Next Level Week é um evento online gratuito promovido pela Rocketsat, em que 
 * NodeJS
 * Gerenciador de pacotes (Npm ou Yarn)
 
-### gemini Clonando o Repositório (frontend, backend e mobile)
+### Clonando o Repositório (frontend, backend e mobile)
 
 Repositório <a href="https://github.com/Robetjunior/Happy">🔗 FRONTEND</a>.
 
@@ -28,7 +28,7 @@ $ git clone https://github.com/mjulialobo/happy-mobile.git
 $ cd happy
 ```
 
-## computer Rodando o Happy web
+## Rodando o Happy web
 
 Entre na pasta
 ```sh
@@ -54,7 +54,7 @@ $ npm start
 ```
 
 
-## globe_with_meridians Rodando o Servidor
+## Rodando o Servidor
 Entre na pasta
 
 ```sh
