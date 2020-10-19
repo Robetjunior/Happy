@@ -18,14 +18,14 @@ Repositório <a href="https://github.com/Robetjunior/Happy_Backend">🔗 BACKEND
 
 Repositório <a href="https://github.com/Robetjunior/Happy_Mobile">🔗 MOBILE</a>.
 
-```
+```sh
 $ git clone https://github.com/mjulialobo/happy.git
 $ git clone https://github.com/mjulialobo/happy-backend.git
 $ git clone https://github.com/mjulialobo/happy-mobile.git
 
 # entre na pasta do projeto
 
-```sh
+```
 $ cd happy
 ```
 
