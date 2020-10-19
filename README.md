@@ -28,7 +28,7 @@ $ git clone https://github.com/mjulialobo/happy-mobile.git
 $ cd happy
 ```
 
-## Rodando o Happy web
+### Rodando o Happy web
 
 Entre na pasta
 ```sh
@@ -54,13 +54,13 @@ $ npm start
 ```
 
 
-## Rodando o Servidor
+### Rodando o Servidor
 Entre na pasta
 
 ```sh
 $ cd backend
 ```
-
+Instale as dependências
 ```sh
 $ yarn
 
@@ -77,7 +77,7 @@ $ yarn dev
 $ npm dev
 ```
 
-## Rodando o Happy mobile
+### Rodando o Happy mobile
 Entre na pasta
 ```sh
 $ cd mobile
