@@ -102,13 +102,13 @@ $ npm start
 
 Depois de fazer isso, irá abrir o metro bundler no seu navegador. A partir de agora você tem algumas opções para acessar o app.
 
-## 1- Emulador Android
+#### 1- Emulador Android
 Na página do metro bundler, clique em "Run on Android device/emulator" e espere carregar. Tenha em mente que é necessário ter passado pelo processo de instalação do android sdk, etc.
 
-## 2 - Emulador IOS
+#### 2 - Emulador IOS
 Na página do metro bundler, clique em "Run on iOS simulator" e espere carregar.
 
-## 3 - Seu smartphone
+#### 3 - Seu smartphone
 Baixe o aplicativo do Expo:
 
 * [iOS](https://apps.apple.com/app/apple-store/id982107779)
